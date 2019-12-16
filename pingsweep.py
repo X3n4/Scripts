@@ -17,11 +17,8 @@ net2 = net1[0] + a + net1[1] + a + net1[2] + a
 print net2
 
 #Asks for IP range
-#st1 = int(input("Enter the Starting Number: "))
 st1 = int(raw_input("Enter the Starting Number: "))
-#en1 = int(input("Enter the Last Number: "))
 en1 = int(raw_input("Enter the Last Number: "))
-#en1 = en1 + 1
 
 
 # Pings IP addresses within given ranges
